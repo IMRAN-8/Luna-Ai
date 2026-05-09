@@ -69,7 +69,7 @@ More features, documentation, and hardware demos will be added gradually.
 Author : 
 Imran
 ```
-GitHub: [IMRAN-8](https://github.com/IMRAN-8)
+GitHub: https://github.com/IMRAN-8
 ```
 
 
