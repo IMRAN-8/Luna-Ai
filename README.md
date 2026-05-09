@@ -50,22 +50,25 @@ ESP32 Speaker
 •	OLED Display
 •	Cloud-hosted backend
 ```
-```
+
 Install dependencies:
+
+```
 npm install
 Run the server:
 npm start
 or:
 node server.js
 ```
-```
+
 Project Status
+```
 This project is currently under development.
 More features, documentation, and hardware demos will be added gradually.
 ```
-```
 Author
 Imran
+```
 GitHub: IMRAN-8
 
 
