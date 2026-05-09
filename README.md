@@ -5,7 +5,7 @@ The ESP32 records the user's voice and sends it into text, think using AI, remem
 
 The goal of this project is to connect **IoT hardware** with **AI services** and create a simple smart assistant that can run from an ESP32 device.
 
-```
+---
 
 ## Features
 
@@ -18,10 +18,11 @@ The goal of this project is to connect **IoT hardware** with **AI services** and
 •	Simple browser page support
 •	Designed for IoT and embedded AI experiments
 
-```
+---
 
 ## How It Works
 
+---txt
 User Voice
     ↓
 ESP32 Microphone
