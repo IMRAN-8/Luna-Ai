@@ -38,6 +38,7 @@ Text-to-Speech
 ESP32 Speaker
 
 ```
+```
 ## Tech Stack
 
 •	Node.js
@@ -48,6 +49,7 @@ ESP32 Speaker
 •	I2S Speaker Amplifier
 •	OLED Display
 •	Cloud-hosted backend
+```
 ```
 Install dependencies:
 npm install
