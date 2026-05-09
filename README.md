@@ -38,9 +38,9 @@ Text-to-Speech
 ESP32 Speaker
 
 ```
-```
-## Tech Stack
 
+## Tech Stack
+```
 •	Node.js
 •	Express.js
 •	JavaScript
