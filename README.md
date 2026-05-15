@@ -67,7 +67,7 @@ This project is currently under development.
 More features, documentation, and hardware demos will be added gradually.
 ```
 Author : 
-Imran
+Imran Hosen
 ```
 GitHub: https://github.com/IMRAN-8
 ```
